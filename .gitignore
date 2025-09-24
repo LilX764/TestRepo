@@ -1,0 +1,5 @@
+cc.txt 
+
+
+*.class #ignores class files
+sub/ #ignores a file called sub 
